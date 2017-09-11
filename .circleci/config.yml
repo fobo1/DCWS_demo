@@ -1,3 +1,5 @@
+version: 2
+jobs:
 
 deployment:
   dockerhub:
@@ -8,3 +10,6 @@ deployment:
 test:
   override:    
     - mocha
+
+
+
