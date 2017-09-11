@@ -1,10 +1,10 @@
 {
-  "name": "hello-DC&WS",
+  "name": "hello-World",
   "private": true,
   "version": "0.0.1",
   "description": "Demo app voor DevOps en CI/CD demo",
   "main": "app.js",
-  "author": "Nigel",
+  "author": "Fokko",
   "license": "You'd have to be mad to use this in production :-D",
   "dependencies": {
     "express": "3.2.4",
